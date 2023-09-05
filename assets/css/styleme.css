@@ -25,10 +25,6 @@ html {
     font-size: 1.5em;
 }
 
-.content .sub-title {
-    font-style: italic;
-}
-
 .movies a {
     color: orange;
     text-decoration: none;
