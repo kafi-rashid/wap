@@ -39,10 +39,10 @@ html {
 }
 
 /* To reverse the order */
-/* .movies ol {
+.movies ol {
     display: flex;
     flex-direction: column-reverse;
-} */
+}
 
 .mood * {
     display: inline-block;
