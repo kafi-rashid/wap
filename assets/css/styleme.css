@@ -1,0 +1,61 @@
+* {
+    font: 300 normal 1em Arial, "Arial Black", Verdana, "Trebuchet MS", Georgia, Tahoma, "Courier New", "Times New Roman", sans-serif;
+    color: #fff;
+}
+
+html {
+    background-color: #585648;
+}
+
+.title {
+    color: #a2c0f5;
+}
+
+.header .title {
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.header span {
+    color: yellow;
+    font-weight: bold;
+}
+
+.content .title {
+    font-size: 1.5em;
+}
+
+.content .sub-title {
+    font-style: italic;
+}
+
+.movies a {
+    color: orange;
+    text-decoration: none;
+}
+
+.movies a:hover {
+    text-decoration: underline;
+}
+
+.movies dt {
+    color: burlywood;
+}
+
+/* To reverse the order */
+/* .movies ol {
+    display: flex;
+    flex-direction: column-reverse;
+} */
+
+.mood * {
+    display: inline-block;
+}
+
+.mood img {
+    width: 80px;
+}
+
+.validator a {
+    text-decoration: none !important;
+}
